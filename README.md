@@ -1,9 +1,6 @@
 # Text-summarization Model  
 As a beginner of artificial intelligence, I explored NLP field in 2020 winter holidy. This is the presentation of my project, which is used to automatically generate a text summary . Since I am new to text-summarization, there may be some mistakes in the project, so I appreciate any kind of advice and feedback. The project is based on one of the popular neural network---- **Seq2Seq Model** .
   
-If you want to straightforwardly see my code, please change to the [master branch](https://github.com/ITCUI-XJTLU/Text_summarization-Model/tree/master) . 
-  
-  
 
 ### (1)Introdoction:  
 In deep learning, the seq2eq model is actually a encoder-decoder model , which is used to transform a sequence to another by the recurrent neural network (RNN). Most public projects on Github are usually applied to the language translation models, however, seq2seq model is able to carry great value to text summarization. Based on the paper [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) and [some current translation models](https://github.com/ITCUI-XJTLU/pytorch-seq2seq/blob/master/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb), the model is developed.  
